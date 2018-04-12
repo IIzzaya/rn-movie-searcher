@@ -1,0 +1,3 @@
+rootProject.name = 'rn-movie-searcher'
+
+include ':app'
